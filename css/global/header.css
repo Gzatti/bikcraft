@@ -22,7 +22,6 @@
   display: inline-block;
   padding: 16px 0px;
   position: relative;
-
 }
 
 .header-menu a::after {
@@ -69,4 +68,10 @@
     padding: 8px 12px;
     font-size: 14px;
   }
+}
+
+@media (max-width: 475px){
+  .header {
+  justify-content: center;
+}
 }

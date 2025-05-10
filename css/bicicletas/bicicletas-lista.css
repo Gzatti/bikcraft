@@ -5,7 +5,7 @@
 
 .bicicletas-lista h2 {
   padding-bottom: 40px;
-  width: 1200px;
+  max-width: 1200px;
 }
 
 .bicicletas-lista ul {
