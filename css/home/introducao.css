@@ -8,12 +8,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
-  max-width: 1200px;
-  box-sizing: border-box;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .introducao-conteudo {
@@ -53,7 +47,7 @@
     box-shadow: inset 0 -60px var(--cor-0);
   }
 
-  .introducao {
+  .introducao, container {
     grid-template-columns: 1fr;
     gap: 32px;
   }
