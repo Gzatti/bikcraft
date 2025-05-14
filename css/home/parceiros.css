@@ -61,7 +61,7 @@
 
   .parceiros h2 span {
     display: none;
-  }
+    }
 
   .parceiros h2::after {
     content: "";
