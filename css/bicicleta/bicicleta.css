@@ -27,7 +27,7 @@
 }
 
 .bicicleta-conteudo > p {
-  margin-bottom: 32px;
+  margin-bottom: 16px;
 }
 
 .bicicleta-comprar {
@@ -36,11 +36,12 @@
   align-items: center;
   justify-items: start;
   gap: 8px 12px;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 }
 
 .bicicleta-comprar a {
   grid-row: span 2;
+  margin-bottom: 40px;
 }
 
 .bicicleta-comprar span {
